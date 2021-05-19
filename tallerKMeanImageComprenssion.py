@@ -27,3 +27,6 @@ io.imshow(imagenComprimida)
 io.show()
 
 
+#prueba de ejemplo aSDSDFASDFASDFASDFADF
+
+
