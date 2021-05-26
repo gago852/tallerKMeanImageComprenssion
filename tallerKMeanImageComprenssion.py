@@ -28,5 +28,4 @@ io.show()
 
 
 #prueba de ejemplo aSDSDFASDFASDFASDFADF
-
-
+#adasdasd asdasd asd2 2 2 
